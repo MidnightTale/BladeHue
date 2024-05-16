@@ -1,0 +1,6 @@
+name: BladeHue
+version: '${version}'
+main: net.hynse.bladehue.BladeHue
+api-version: '1.20'
+folia-supported: true
+softdepend: [PlaceholderAPI]
